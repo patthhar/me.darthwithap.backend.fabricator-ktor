@@ -1,0 +1,1 @@
+rootProject.name = "me.darthwithap.backend.fabricator-ktor"
